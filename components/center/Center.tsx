@@ -15,7 +15,7 @@ export default function Center() {
             Time Webs
           </div>
           <div className="w-full flex justify-start text-[#1db4f8] text-6xl max-[470px]:text-3xl font-bold">
-            Websites Developements
+            Websites Developement
           </div>
           <MainButton href="" addedStyles="" description="SCOPRI DI PIÙ" />
         </div>
