@@ -78,6 +78,94 @@ module.exports = require("next/dist\\client\\components\\static-generation-async
 
 /***/ }),
 
+/***/ "buffer":
+/*!*************************!*\
+  !*** external "buffer" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("buffer");
+
+/***/ }),
+
+/***/ "crypto":
+/*!*************************!*\
+  !*** external "crypto" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("crypto");
+
+/***/ }),
+
+/***/ "events":
+/*!*************************!*\
+  !*** external "events" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("events");
+
+/***/ }),
+
+/***/ "fs":
+/*!*********************!*\
+  !*** external "fs" ***!
+  \*********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("fs");
+
+/***/ }),
+
+/***/ "http":
+/*!***********************!*\
+  !*** external "http" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("http");
+
+/***/ }),
+
+/***/ "https":
+/*!************************!*\
+  !*** external "https" ***!
+  \************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("https");
+
+/***/ }),
+
+/***/ "net":
+/*!**********************!*\
+  !*** external "net" ***!
+  \**********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("net");
+
+/***/ }),
+
+/***/ "os":
+/*!*********************!*\
+  !*** external "os" ***!
+  \*********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("os");
+
+/***/ }),
+
 /***/ "path":
 /*!***********************!*\
   !*** external "path" ***!
@@ -86,6 +174,28 @@ module.exports = require("next/dist\\client\\components\\static-generation-async
 
 "use strict";
 module.exports = require("path");
+
+/***/ }),
+
+/***/ "stream":
+/*!*************************!*\
+  !*** external "stream" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("stream");
+
+/***/ }),
+
+/***/ "tls":
+/*!**********************!*\
+  !*** external "tls" ***!
+  \**********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("tls");
 
 /***/ }),
 
@@ -108,6 +218,17 @@ module.exports = require("url");
 
 "use strict";
 module.exports = require("util");
+
+/***/ }),
+
+/***/ "zlib":
+/*!***********************!*\
+  !*** external "zlib" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("zlib");
 
 /***/ }),
 
@@ -181,7 +302,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/shared/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/components/UIElements/ShoppingCard */ \"(rsc)/./components/UIElements/ShoppingCard.tsx\");\n/* harmony import */ var _components_header_HeaderBase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/components/header/HeaderBase */ \"(rsc)/./components/header/HeaderBase.tsx\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/rsc/react.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);\n\n\n\n\nconst page = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex flex-wrap justify-center w-full p-0 bg-[#ffffff]\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_header_HeaderBase__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n                home: \"text-gray-600\",\n                products: \"text-blue-600\"\n            }, void 0, false, {\n                fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                lineNumber: 9,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"w-full flex justify-center bg-blue-500 h-[150px]\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                    className: \"w-[60%] flex p-5 items-center text-4xl font-bold text-white\",\n                    children: \"I Nostri Prodotti\"\n                }, void 0, false, {\n                    fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                    lineNumber: 11,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                lineNumber: 10,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"w-[70%] flex justify-center mt-16 flex-wrap gap-20 max-[970px]:space-y-10 mb-14\",\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                        imgName: \"3dShapes\",\n                        title: \"Begginer Website\",\n                        description: \"200€\",\n                        buttonHref: \"/product/\"\n                    }, void 0, false, {\n                        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                        lineNumber: 16,\n                        columnNumber: 9\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                        imgName: \"3dShapes\",\n                        title: \"Begginer Website\",\n                        description: \"200€\",\n                        buttonHref: \"/product/\"\n                    }, void 0, false, {\n                        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                        lineNumber: 22,\n                        columnNumber: 9\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                        imgName: \"3dShapes\",\n                        title: \"Begginer Website\",\n                        description: \"200€\",\n                        buttonHref: \"/product/\"\n                    }, void 0, false, {\n                        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                        lineNumber: 28,\n                        columnNumber: 9\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                        imgName: \"3dShapes\",\n                        title: \"Begginer Website\",\n                        description: \"200€\",\n                        buttonHref: \"/product/\"\n                    }, void 0, false, {\n                        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                        lineNumber: 34,\n                        columnNumber: 9\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                        imgName: \"3dShapes\",\n                        title: \"Begginer Website\",\n                        description: \"200€\",\n                        buttonHref: \"/product/\"\n                    }, void 0, false, {\n                        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                        lineNumber: 40,\n                        columnNumber: 9\n                    }, undefined)\n                ]\n            }, void 0, true, {\n                fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                lineNumber: 15,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n        lineNumber: 8,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (page);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvcHJvZHVjdHMvcGFnZS50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7QUFDZ0U7QUFDWjtBQUMxQjtBQUUxQixNQUFNRyxPQUFPO0lBQ1gscUJBQ0UsOERBQUNDO1FBQUlDLFdBQVU7OzBCQUNiLDhEQUFDSixxRUFBTUE7Z0JBQUNLLE1BQUs7Z0JBQWdCQyxVQUFTOzs7Ozs7MEJBQ3RDLDhEQUFDSDtnQkFBSUMsV0FBVTswQkFDYiw0RUFBQ0Q7b0JBQUlDLFdBQVU7OEJBQThEOzs7Ozs7Ozs7OzswQkFJL0UsOERBQUNEO2dCQUFJQyxXQUFVOztrQ0FDYiw4REFBQ0wsMkVBQVlBO3dCQUNYUSxTQUFRO3dCQUNSQyxPQUFNO3dCQUNOQyxhQUFZO3dCQUNaQyxZQUFXOzs7Ozs7a0NBRWIsOERBQUNYLDJFQUFZQTt3QkFDWFEsU0FBUTt3QkFDUkMsT0FBTTt3QkFDTkMsYUFBWTt3QkFDWkMsWUFBVzs7Ozs7O2tDQUViLDhEQUFDWCwyRUFBWUE7d0JBQ1hRLFNBQVE7d0JBQ1JDLE9BQU07d0JBQ05DLGFBQVk7d0JBQ1pDLFlBQVc7Ozs7OztrQ0FFYiw4REFBQ1gsMkVBQVlBO3dCQUNYUSxTQUFRO3dCQUNSQyxPQUFNO3dCQUNOQyxhQUFZO3dCQUNaQyxZQUFXOzs7Ozs7a0NBRWIsOERBQUNYLDJFQUFZQTt3QkFDWFEsU0FBUTt3QkFDUkMsT0FBTTt3QkFDTkMsYUFBWTt3QkFDWkMsWUFBVzs7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBS3JCO0FBRUEsaUVBQWVSLElBQUlBLEVBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9leGFtcGxlLWFwcC8uL2FwcC9wcm9kdWN0cy9wYWdlLnRzeD8yZjMzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBQcm9kdWN0c0NhcmQgZnJvbSBcIkAvY29tcG9uZW50cy9VSUVsZW1lbnRzL1Byb2R1Y3RzQ2FyZFwiO1xyXG5pbXBvcnQgU2hvcHBpbmdDYXJkIGZyb20gXCJAL2NvbXBvbmVudHMvVUlFbGVtZW50cy9TaG9wcGluZ0NhcmRcIjtcclxuaW1wb3J0IEhlYWRlciBmcm9tIFwiQC9jb21wb25lbnRzL2hlYWRlci9IZWFkZXJCYXNlXCI7XHJcbmltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcclxuXHJcbmNvbnN0IHBhZ2UgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIChcclxuICAgIDxkaXYgY2xhc3NOYW1lPVwiZmxleCBmbGV4LXdyYXAganVzdGlmeS1jZW50ZXIgdy1mdWxsIHAtMCBiZy1bI2ZmZmZmZl1cIj5cclxuICAgICAgPEhlYWRlciBob21lPVwidGV4dC1ncmF5LTYwMFwiIHByb2R1Y3RzPVwidGV4dC1ibHVlLTYwMFwiIC8+XHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwidy1mdWxsIGZsZXgganVzdGlmeS1jZW50ZXIgYmctYmx1ZS01MDAgaC1bMTUwcHhdXCI+XHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJ3LVs2MCVdIGZsZXggcC01IGl0ZW1zLWNlbnRlciB0ZXh0LTR4bCBmb250LWJvbGQgdGV4dC13aGl0ZVwiPlxyXG4gICAgICAgICAgSSBOb3N0cmkgUHJvZG90dGlcclxuICAgICAgICA8L2Rpdj5cclxuICAgICAgPC9kaXY+XHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwidy1bNzAlXSBmbGV4IGp1c3RpZnktY2VudGVyIG10LTE2IGZsZXgtd3JhcCBnYXAtMjAgbWF4LVs5NzBweF06c3BhY2UteS0xMCBtYi0xNFwiPlxyXG4gICAgICAgIDxTaG9wcGluZ0NhcmRcclxuICAgICAgICAgIGltZ05hbWU9XCIzZFNoYXBlc1wiXHJcbiAgICAgICAgICB0aXRsZT1cIkJlZ2dpbmVyIFdlYnNpdGVcIlxyXG4gICAgICAgICAgZGVzY3JpcHRpb249XCIyMDDigqxcIlxyXG4gICAgICAgICAgYnV0dG9uSHJlZj1cIi9wcm9kdWN0L1wiXHJcbiAgICAgICAgLz5cclxuICAgICAgICA8U2hvcHBpbmdDYXJkXHJcbiAgICAgICAgICBpbWdOYW1lPVwiM2RTaGFwZXNcIlxyXG4gICAgICAgICAgdGl0bGU9XCJCZWdnaW5lciBXZWJzaXRlXCJcclxuICAgICAgICAgIGRlc2NyaXB0aW9uPVwiMjAw4oKsXCJcclxuICAgICAgICAgIGJ1dHRvbkhyZWY9XCIvcHJvZHVjdC9cIlxyXG4gICAgICAgIC8+XHJcbiAgICAgICAgPFNob3BwaW5nQ2FyZFxyXG4gICAgICAgICAgaW1nTmFtZT1cIjNkU2hhcGVzXCJcclxuICAgICAgICAgIHRpdGxlPVwiQmVnZ2luZXIgV2Vic2l0ZVwiXHJcbiAgICAgICAgICBkZXNjcmlwdGlvbj1cIjIwMOKCrFwiXHJcbiAgICAgICAgICBidXR0b25IcmVmPVwiL3Byb2R1Y3QvXCJcclxuICAgICAgICAvPlxyXG4gICAgICAgIDxTaG9wcGluZ0NhcmRcclxuICAgICAgICAgIGltZ05hbWU9XCIzZFNoYXBlc1wiXHJcbiAgICAgICAgICB0aXRsZT1cIkJlZ2dpbmVyIFdlYnNpdGVcIlxyXG4gICAgICAgICAgZGVzY3JpcHRpb249XCIyMDDigqxcIlxyXG4gICAgICAgICAgYnV0dG9uSHJlZj1cIi9wcm9kdWN0L1wiXHJcbiAgICAgICAgLz5cclxuICAgICAgICA8U2hvcHBpbmdDYXJkXHJcbiAgICAgICAgICBpbWdOYW1lPVwiM2RTaGFwZXNcIlxyXG4gICAgICAgICAgdGl0bGU9XCJCZWdnaW5lciBXZWJzaXRlXCJcclxuICAgICAgICAgIGRlc2NyaXB0aW9uPVwiMjAw4oKsXCJcclxuICAgICAgICAgIGJ1dHRvbkhyZWY9XCIvcHJvZHVjdC9cIlxyXG4gICAgICAgIC8+XHJcbiAgICAgIDwvZGl2PlxyXG4gICAgPC9kaXY+XHJcbiAgKTtcclxufTtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IHBhZ2U7XHJcbiJdLCJuYW1lcyI6WyJTaG9wcGluZ0NhcmQiLCJIZWFkZXIiLCJSZWFjdCIsInBhZ2UiLCJkaXYiLCJjbGFzc05hbWUiLCJob21lIiwicHJvZHVjdHMiLCJpbWdOYW1lIiwidGl0bGUiLCJkZXNjcmlwdGlvbiIsImJ1dHRvbkhyZWYiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./app/products/page.tsx\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/shared/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/components/UIElements/ShoppingCard */ \"(rsc)/./components/UIElements/ShoppingCard.tsx\");\n/* harmony import */ var _components_header_HeaderBase__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/components/header/HeaderBase */ \"(rsc)/./components/header/HeaderBase.tsx\");\n/* harmony import */ var _vercel_postgres__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @vercel/postgres */ \"(rsc)/./node_modules/@vercel/postgres/dist/index-node.js\");\n\n\n\n\nconst page = async ()=>{\n    const { rows } = await _vercel_postgres__WEBPACK_IMPORTED_MODULE_3__.sql`SELECT id_product, title, price, image FROM products ORDER BY price ASC LIMIT 9;`;\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex flex-wrap justify-center w-full p-0 bg-[#ffffff]\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_header_HeaderBase__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n                home: \"text-gray-600\",\n                products: \"text-blue-600\"\n            }, void 0, false, {\n                fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                lineNumber: 14,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"w-full flex justify-center bg-blue-500 h-[150px]\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                    className: \"w-[60%] flex p-5 items-center text-4xl font-bold text-white\",\n                    children: \"I Nostri Prodotti\"\n                }, void 0, false, {\n                    fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                    lineNumber: 16,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                lineNumber: 15,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"w-[70%] flex justify-center mt-16 flex-wrap gap-20 max-[970px]:space-y-10 mb-14\",\n                children: rows.map((row)=>/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UIElements_ShoppingCard__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                        imgName: \"3dShapes\",\n                        title: row.title,\n                        description: row.price,\n                        buttonHref: \"/product/\"\n                    }, row.id_product, false, {\n                        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                        lineNumber: 22,\n                        columnNumber: 11\n                    }, undefined))\n            }, void 0, false, {\n                fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n                lineNumber: 20,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"D:\\\\Project\\\\WebSite\\\\WebsitesPrefab\\\\Backup\\\\TimeWeb\\\\TimeWeb\\\\app\\\\products\\\\page.tsx\",\n        lineNumber: 13,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (page);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvcHJvZHVjdHMvcGFnZS50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUVnRTtBQUNaO0FBQ2I7QUFHdkMsTUFBTUcsT0FBTztJQUNYLE1BQU0sRUFBRUMsSUFBSSxFQUFFLEdBQ1osTUFBTUYsaURBQUcsQ0FBQyxnRkFBZ0YsQ0FBQztJQUU3RixxQkFDRSw4REFBQ0c7UUFBSUMsV0FBVTs7MEJBQ2IsOERBQUNMLHFFQUFNQTtnQkFBQ00sTUFBSztnQkFBZ0JDLFVBQVM7Ozs7OzswQkFDdEMsOERBQUNIO2dCQUFJQyxXQUFVOzBCQUNiLDRFQUFDRDtvQkFBSUMsV0FBVTs4QkFBOEQ7Ozs7Ozs7Ozs7OzBCQUkvRSw4REFBQ0Q7Z0JBQUlDLFdBQVU7MEJBQ1pGLEtBQUtLLEdBQUcsQ0FBQyxDQUFDQyxvQkFDVCw4REFBQ1YsMkVBQVlBO3dCQUVYVyxTQUFRO3dCQUNSQyxPQUFPRixJQUFJRSxLQUFLO3dCQUNoQkMsYUFBYUgsSUFBSUksS0FBSzt3QkFDdEJDLFlBQVc7dUJBSk5MLElBQUlNLFVBQVU7Ozs7Ozs7Ozs7Ozs7Ozs7QUFVL0I7QUFFQSxpRUFBZWIsSUFBSUEsRUFBQyIsInNvdXJjZXMiOlsid2VicGFjazovL2V4YW1wbGUtYXBwLy4vYXBwL3Byb2R1Y3RzL3BhZ2UudHN4PzJmMzMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFByb2R1Y3RzQXBpIGZyb20gXCJAL2NvbXBvbmVudHMvVUlFbGVtZW50cy9Qcm9kdWN0c0FwaVwiO1xyXG5pbXBvcnQgUHJvZHVjdHNDYXJkIGZyb20gXCJAL2NvbXBvbmVudHMvVUlFbGVtZW50cy9Qcm9kdWN0c0NhcmRcIjtcclxuaW1wb3J0IFNob3BwaW5nQ2FyZCBmcm9tIFwiQC9jb21wb25lbnRzL1VJRWxlbWVudHMvU2hvcHBpbmdDYXJkXCI7XHJcbmltcG9ydCBIZWFkZXIgZnJvbSBcIkAvY29tcG9uZW50cy9oZWFkZXIvSGVhZGVyQmFzZVwiO1xyXG5pbXBvcnQgeyBzcWwgfSBmcm9tIFwiQHZlcmNlbC9wb3N0Z3Jlc1wiO1xyXG5pbXBvcnQgeyBOZXh0UmVzcG9uc2UgfSBmcm9tIFwibmV4dC9zZXJ2ZXJcIjtcclxuXHJcbmNvbnN0IHBhZ2UgPSBhc3luYyAoKSA9PiB7XHJcbiAgY29uc3QgeyByb3dzIH0gPVxyXG4gICAgYXdhaXQgc3FsYFNFTEVDVCBpZF9wcm9kdWN0LCB0aXRsZSwgcHJpY2UsIGltYWdlIEZST00gcHJvZHVjdHMgT1JERVIgQlkgcHJpY2UgQVNDIExJTUlUIDk7YDtcclxuXHJcbiAgcmV0dXJuIChcclxuICAgIDxkaXYgY2xhc3NOYW1lPVwiZmxleCBmbGV4LXdyYXAganVzdGlmeS1jZW50ZXIgdy1mdWxsIHAtMCBiZy1bI2ZmZmZmZl1cIj5cclxuICAgICAgPEhlYWRlciBob21lPVwidGV4dC1ncmF5LTYwMFwiIHByb2R1Y3RzPVwidGV4dC1ibHVlLTYwMFwiIC8+XHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwidy1mdWxsIGZsZXgganVzdGlmeS1jZW50ZXIgYmctYmx1ZS01MDAgaC1bMTUwcHhdXCI+XHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJ3LVs2MCVdIGZsZXggcC01IGl0ZW1zLWNlbnRlciB0ZXh0LTR4bCBmb250LWJvbGQgdGV4dC13aGl0ZVwiPlxyXG4gICAgICAgICAgSSBOb3N0cmkgUHJvZG90dGlcclxuICAgICAgICA8L2Rpdj5cclxuICAgICAgPC9kaXY+XHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwidy1bNzAlXSBmbGV4IGp1c3RpZnktY2VudGVyIG10LTE2IGZsZXgtd3JhcCBnYXAtMjAgbWF4LVs5NzBweF06c3BhY2UteS0xMCBtYi0xNFwiPlxyXG4gICAgICAgIHtyb3dzLm1hcCgocm93KSA9PiAoXHJcbiAgICAgICAgICA8U2hvcHBpbmdDYXJkXHJcbiAgICAgICAgICAgIGtleT17cm93LmlkX3Byb2R1Y3R9XHJcbiAgICAgICAgICAgIGltZ05hbWU9XCIzZFNoYXBlc1wiXHJcbiAgICAgICAgICAgIHRpdGxlPXtyb3cudGl0bGV9XHJcbiAgICAgICAgICAgIGRlc2NyaXB0aW9uPXtyb3cucHJpY2V9XHJcbiAgICAgICAgICAgIGJ1dHRvbkhyZWY9XCIvcHJvZHVjdC9cIlxyXG4gICAgICAgICAgLz5cclxuICAgICAgICApKX1cclxuICAgICAgPC9kaXY+XHJcbiAgICA8L2Rpdj5cclxuICApO1xyXG59O1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgcGFnZTtcclxuIl0sIm5hbWVzIjpbIlNob3BwaW5nQ2FyZCIsIkhlYWRlciIsInNxbCIsInBhZ2UiLCJyb3dzIiwiZGl2IiwiY2xhc3NOYW1lIiwiaG9tZSIsInByb2R1Y3RzIiwibWFwIiwicm93IiwiaW1nTmFtZSIsInRpdGxlIiwiZGVzY3JpcHRpb24iLCJwcmljZSIsImJ1dHRvbkhyZWYiLCJpZF9wcm9kdWN0Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./app/products/page.tsx\n");
 
 /***/ }),
 
@@ -269,7 +390,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/react-icons"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fproducts%2Fpage&page=%2Fproducts%2Fpage&appPaths=%2Fproducts%2Fpage&pagePath=private-next-app-dir%2Fproducts%2Fpage.tsx&appDir=D%3A%5CProject%5CWebSite%5CWebsitesPrefab%5CBackup%5CTimeWeb%5CTimeWeb%5Capp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=D%3A%5CProject%5CWebSite%5CWebsitesPrefab%5CBackup%5CTimeWeb%5CTimeWeb&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@neondatabase","vendor-chunks/ws","vendor-chunks/@vercel","vendor-chunks/node-gyp-build","vendor-chunks/utf-8-validate","vendor-chunks/bufferutil","vendor-chunks/react-icons","vendor-chunks/@swc"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fproducts%2Fpage&page=%2Fproducts%2Fpage&appPaths=%2Fproducts%2Fpage&pagePath=private-next-app-dir%2Fproducts%2Fpage.tsx&appDir=D%3A%5CProject%5CWebSite%5CWebsitesPrefab%5CBackup%5CTimeWeb%5CTimeWeb%5Capp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=D%3A%5CProject%5CWebSite%5CWebsitesPrefab%5CBackup%5CTimeWeb%5CTimeWeb&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
 module.exports = __webpack_exports__;
 
 })();
